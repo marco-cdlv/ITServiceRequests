@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>client_credentials</grant_type>
+        <name>OAuth_ITServices default_profile</name>
+        <oauth_entity display_value="OAuth_ITServices">38401bec4f712300cd558c318110c785</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-12 23:00:40</sys_created_on>
+        <sys_id>a20257204fb12300cd558c318110c770</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OAuth_ITServices default_profile</sys_name>
+        <sys_package display_value="ITServices" source="x_291066_itservice">0b1226e04f312300cd558c318110c710</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITServices">0b1226e04f312300cd558c318110c710</sys_scope>
+        <sys_update_name>oauth_entity_profile_a20257204fb12300cd558c318110c770</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-12 23:00:40</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

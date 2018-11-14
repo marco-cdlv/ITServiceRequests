@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile display_value="OAuth_ITService_Client default_profile">8075d3704ff92300cd558c318110c700</oauth2_profile>
+        <protocol_name/>
+        <qualified_name>Get All Service Requests [ Default GET ]</qualified_name>
+        <rest_endpoint>https://qe4-analyst.sitehands.com/rest/api/v1/list?objectType=Service_Request</rest_endpoint>
+        <rest_message display_value="Get All Service Requests">d8eb0f3c4fb92300cd558c318110c7fb</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-13 17:12:50</sys_created_on>
+        <sys_id>dd0c8f3c4fb92300cd558c318110c76d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="ITServices" source="x_291066_itservice">0b1226e04f312300cd558c318110c710</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITServices">0b1226e04f312300cd558c318110c710</sys_scope>
+        <sys_update_name>sys_rest_message_fn_dd0c8f3c4fb92300cd558c318110c76d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-13 19:14:26</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

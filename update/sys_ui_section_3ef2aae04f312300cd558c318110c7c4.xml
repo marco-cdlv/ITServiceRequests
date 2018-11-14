@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3ef2aae04f312300cd558c318110c7c4" sys_domain="global" table="x_291066_itservice_itservicerequest" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_account</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>4666a3fc4ff92300cd558c318110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_task_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>ca66a3fc4ff92300cd558c318110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_summary</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>4e66a3fc4ff92300cd558c318110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>ce66a3fc4ff92300cd558c318110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>4266a3fc4ff92300cd558c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_end</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>c266a3fc4ff92300cd558c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>5666a3fc4ff92300cd558c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 19:08:08</sys_created_on>
+            <sys_id>d666a3fc4ff92300cd558c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 19:08:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sreq_id</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 02:07:49</sys_created_on>
+            <sys_id>f57605894ffd2300cd558c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 02:07:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 02:12:22</sys_created_on>
+            <sys_id>908749894ffd2300cd558c318110c796</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 02:12:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submitted_on</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 02:17:05</sys_created_on>
+            <sys_id>71980dc94ffd2300cd558c318110c755</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 02:17:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_type_name</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 02:17:06</sys_created_on>
+            <sys_id>b998c10d4ffd2300cd558c318110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 02:17:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_name</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 02:17:06</sys_created_on>
+            <sys_id>7998c10d4ffd2300cd558c318110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 02:17:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 02:17:56</sys_created_on>
+            <sys_id>02c8850d4ffd2300cd558c318110c75e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_291066_itservice_itservicerequest" sys_domain="global" view="Default view">3ef2aae04f312300cd558c318110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 02:17:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_291066_itservice_itservicerequest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-12 19:35:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ef2aae04f312300cd558c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_291066_itservice_itservicerequest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ITServices" source="x_291066_itservice">0b1226e04f312300cd558c318110c710</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITServices">0b1226e04f312300cd558c318110c710</sys_scope>
+            <sys_update_name>sys_ui_section_3ef2aae04f312300cd558c318110c7c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-12 19:35:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

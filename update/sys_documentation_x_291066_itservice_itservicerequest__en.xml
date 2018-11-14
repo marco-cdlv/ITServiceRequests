@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ITServiceRequest" language="en" table="x_291066_itservice_itservicerequest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ITServiceRequest</label>
+            <language>en</language>
+            <name>x_291066_itservice_itservicerequest</name>
+            <plural>ITServiceRequests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-12 19:33:46</sys_created_on>
+            <sys_id>bfa2a2244f312300cd558c318110c765</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ITServiceRequest</sys_name>
+            <sys_package display_value="ITServices" source="x_291066_itservice">0b1226e04f312300cd558c318110c710</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITServices">0b1226e04f312300cd558c318110c710</sys_scope>
+            <sys_update_name>sys_documentation_x_291066_itservice_itservicerequest__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-12 19:33:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

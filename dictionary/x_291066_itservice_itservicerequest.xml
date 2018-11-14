@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="ITServiceRequest" max_length="40" name="x_291066_itservice_itservicerequest" sizeclass="16" type="collection">
+        <element label="Requested By" max_length="40" name="requested_by" type="string"/>
+        <element label="Site Name" max_length="40" name="site_name" type="string"/>
+        <element label="SREQ ID" max_length="40" name="sreq_id" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Submitted On" max_length="40" name="submitted_on" type="glide_date"/>
+        <element label="Task Type Name" max_length="40" name="task_type_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account" mandatory="true" max_length="40" name="u_account" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional Site details" max_length="40" name="u_additional_site_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="All intake form fields" max_length="40" name="u_all_intake_form_fields" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+        <element label="Requested End" max_length="40" name="u_requested_end" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Site" mandatory="true" max_length="40" name="u_site" type="string"/>
+        <element label="Start" max_length="40" name="u_start" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Summary" mandatory="true" max_length="40" name="u_summary" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Task type" mandatory="true" max_length="40" name="u_task_type" type="string"/>
+    </element>
+</database>
